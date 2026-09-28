@@ -1,3 +1,7 @@
+Igor Mattos e Alves & Lucca Torres Badaró Silvani
+
+
+
 # Plataforma de Vulnerabilidade Social Energética
 
 Projeto acadêmico baseado no roteiro da atividade, com foco na análise multicritério de vulnerabilidade social relacionada ao acesso, uso e impacto de energias renováveis.
